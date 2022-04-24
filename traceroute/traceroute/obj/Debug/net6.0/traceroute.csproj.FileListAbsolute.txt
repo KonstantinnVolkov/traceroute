@@ -1,0 +1,30 @@
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/bin/Debug/net6.0/traceroute
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/bin/Debug/net6.0/traceroute.deps.json
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/bin/Debug/net6.0/traceroute.runtimeconfig.json
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/bin/Debug/net6.0/traceroute.dll
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/bin/Debug/net6.0/ref/traceroute.dll
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/bin/Debug/net6.0/traceroute.pdb
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.csproj.AssemblyReference.cache
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.GeneratedMSBuildEditorConfig.editorconfig
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.AssemblyInfoInputs.cache
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.AssemblyInfo.cs
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.csproj.CoreCompileInputs.cache
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.dll
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/ref/traceroute.dll
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.pdb
+/home/konstantin/Work/Labs/CSaN/traceroute/traceroute/traceroute/obj/Debug/net6.0/traceroute.genruntimeconfig.cache
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\bin\Debug\net6.0\traceroute.exe
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\bin\Debug\net6.0\traceroute.deps.json
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\bin\Debug\net6.0\traceroute.runtimeconfig.json
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\bin\Debug\net6.0\traceroute.dll
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\bin\Debug\net6.0\ref\traceroute.dll
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\bin\Debug\net6.0\traceroute.pdb
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.csproj.AssemblyReference.cache
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.AssemblyInfoInputs.cache
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.AssemblyInfo.cs
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.csproj.CoreCompileInputs.cache
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.dll
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\ref\traceroute.dll
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.pdb
+D:\My_projects\Лабы\4 сем\КСиС\traceroute\traceroute\traceroute\obj\Debug\net6.0\traceroute.genruntimeconfig.cache
