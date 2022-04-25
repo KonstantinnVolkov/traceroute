@@ -55,7 +55,14 @@ namespace Traceroute
                         socket.SendTo(package, endPoint);
                         socket.ReceiveFrom(receivedPackage, ref remoteEndPoint);
                         TimeSpan timeSpan = DateTime.Now - time;
-                        Console.WriteLine($"{ttl} {remoteEndPoint.ToString()} {timeSpan.TotalMilliseconds} ms");
+                        if (i > 0)
+                        {
+                            Console.Write($"    {timeSpan.TotalMilliseconds} ms");
+                        }
+                        else
+                        {
+                            Console.Write($"{ttl} {remoteEndPoint.ToString()} {timeSpan.TotalMilliseconds} ms");
+                        }
                         isNodeReached = true;
                     }
                     catch (SocketException e)
@@ -64,19 +71,20 @@ namespace Traceroute
                         Console.Write("    *    ");
                         if (error == 3)
                         {
-                            Console.WriteLine("    Unable to reach host");
+                            Console.Write("    Unable to reach host");
                             break;
                         }
                     }
                     icmp.sequenceNumber(package, ++sequenceNumber);
                     icmp.checkSum(package);
-                    if (isNodeReached)
-                    {
-                        i = 3;
-                        continue;
-                    }
                 }
+                if (receivedPackage[20] == 0)
+                {
+                    return;
+                }
+                Console.WriteLine();
                 ttl++;
+                Thread.Sleep(5000);
             }
         }
     }
